@@ -1,0 +1,14 @@
+E:\Prog1\Shootemup\Shootemup\Shootemup\bin\x86\Release\Content\goat.xnb
+E:\Prog1\Shootemup\Shootemup\Shootemup\bin\x86\Release\Content\nonagon500WB.xnb
+E:\Prog1\Shootemup\Shootemup\Shootemup\bin\x86\Release\Content\triangle.xnb
+E:\Prog1\Shootemup\Shootemup\Shootemup\bin\x86\Release\Content\heart.xnb
+E:\Prog1\Shootemup\Shootemup\Shootemup\bin\x86\Release\Content\background.xnb
+E:\Prog1\Shootemup\Shootemup\Shootemup\bin\x86\Release\Content\pentagon.xnb
+E:\Prog1\Shootemup\Shootemup\Shootemup\bin\x86\Release\Content\losescreen.xnb
+E:\Prog1\Shootemup\Shootemup\Shootemup\bin\x86\Release\Content\winscreen.xnb
+E:\Prog1\Shootemup\Shootemup\Shootemup\bin\x86\Release\Content\goat.png
+E:\Prog1\Shootemup\Shootemup\Shootemup\bin\x86\Release\Shootemup.exe
+E:\Prog1\Shootemup\Shootemup\Shootemup\bin\x86\Release\Shootemup.pdb
+E:\Prog1\Shootemup\Shootemup\Shootemup\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Prog1\Shootemup\Shootemup\Shootemup\obj\x86\Release\Shootemup.exe
+E:\Prog1\Shootemup\Shootemup\Shootemup\obj\x86\Release\Shootemup.pdb

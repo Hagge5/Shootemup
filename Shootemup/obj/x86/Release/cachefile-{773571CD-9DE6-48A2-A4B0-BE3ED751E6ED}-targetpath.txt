@@ -1,0 +1,9 @@
+Content\goat.xnb
+Content\nonagon500WB.xnb
+Content\triangle.xnb
+Content\heart.xnb
+Content\background.xnb
+Content\pentagon.xnb
+Content\losescreen.xnb
+Content\winscreen.xnb
+Content\goat.png

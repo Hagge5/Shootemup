@@ -1,0 +1,3 @@
+D:\Prog1\Shootemup\Shootemup\ShootemupContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Prog1\Shootemup\Shootemup\ShootemupContent\obj\x86\Debug\ShootemupContent.contentprojResolveAssemblyReference.cache
+E:\Prog1\Shootemup\Shootemup\ShootemupContent\obj\x86\Debug\ShootemupContent.contentprojResolveAssemblyReference.cache
